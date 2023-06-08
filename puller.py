@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 import os
 
-def execgitpull():
+def executegitpull():
     for directory in directories:
         directory = directory.strip()  # Remove leading/trailing spaces
         os.chdir(directory)  # Change to the directory
@@ -54,7 +54,11 @@ delete_button.pack(pady=5)
 save_button = tk.Button(window, text="Save Directories", command=save_directories)
 save_button.pack(pady=5)
 
+execute_button = tk.Button(window, text="GIT PULL ALL", command=executegitpull)
+execute_button.pack(pady=10)
+
 # Initialize the directories array
+
 directories = []
 
 # Read the directories from the file
