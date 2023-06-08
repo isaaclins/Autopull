@@ -1,5 +1,6 @@
 @echo off
 setlocal
+cd ..
 
 echo started file
 
