@@ -1,12 +1,18 @@
 # Autopuller
 
 ## Description
-Autopuller is a Python program designed to search through your files for GitHub repositories and save their directories in a text file. This allows you to push all the repositories simultaneously with ease.
+Autopuller is a Python program designed to automate the process of pulling updates from multiple GitHub repositories. It searches through your files for directories containing GitHub repositories and saves their paths in a text file. This allows you to conveniently push updates to all the repositories simultaneously.
+
+## Features
+- Automated searching: Autopuller scans your files and identifies directories that contain GitHub repositories.
+- Easy setup: Simply provide your GitHub access token in the configuration file to enable the program to interact with the GitHub API.
+- Convenient output: The program saves the directory paths of the identified repositories in a text file, making it easy to reference and manage them.
 
 ## Usage
 1. Install Python on your system (if not already installed).
 2. Clone or download the Autopuller repository from GitHub.
 3. Navigate to the project directory.
+
 
 ## Setup
 Before running the program, you need to perform the following steps:
