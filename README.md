@@ -17,3 +17,15 @@ Before running the program, you need to perform the following steps:
 
 ## Running the Program
 To run the program, use the following command:
+``python autopuller.py
+
+``
+
+The program will search through your files and identify any GitHub repositories. It will then save their directories in a text file called `repo_list.txt`.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
