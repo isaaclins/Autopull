@@ -37,10 +37,12 @@ def save_directories():
 # Create the main window
 window = tk.Tk()
 window.title("Directory Manager")
+window.geometry("533x400") 
 
 # Create a listbox to display the directories
-listbox = tk.Listbox(window, selectmode=tk.MULTIPLE)
+listbox = tk.Listbox(window, selectmode=tk.MULTIPLE, width=45)
 listbox.pack(padx=10, pady=10)
+
 
 # Create a button to add directories
 add_button = tk.Button(window, text="Add Directory", command=add_directory)

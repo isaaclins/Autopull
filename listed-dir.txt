@@ -1,1 +1,1 @@
-C:/Users/TAALIIS4/Desktop/github/Autopull,C:/Users/TAALIIS4/Desktop/github/Hangman-python,C:/Users/TAALIIS4/Desktop/github/file-info
+C:/Users/Example user/example/directory,C:/Users/Example user/github-directory/project-1,C:/Users/Example user/github-directory/project-2,C:/Users/Example user/github-directory/project-3,
