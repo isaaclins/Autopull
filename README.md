@@ -12,6 +12,7 @@ Autopuller is a Python program designed to automate the process of pulling updat
 1. Install Python on your system (if not already installed).
 2. Clone or download the Autopuller repository from GitHub.
 3. Navigate to the project directory.
+4. Start setup.bat
 
 
 ## Setup
