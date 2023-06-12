@@ -37,7 +37,7 @@ def save_directories():
 # Create the main window
 window = tk.Tk()
 window.title("Directory Manager")
-window.geometry("533x400") 
+window.geometry("800x600") 
 
 # Create a listbox to display the directories
 listbox = tk.Listbox(window, selectmode=tk.MULTIPLE, width=45)
