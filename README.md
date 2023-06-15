@@ -36,3 +36,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fisaaclins%2FAutopull"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fisaaclins%2FAutopull&label=VISITORS%3A&labelColor=%230d1117&countColor=%230d1117" /></a>
