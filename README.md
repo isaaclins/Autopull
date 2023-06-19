@@ -5,7 +5,7 @@ Autopuller is a Python program designed to automate the process of pulling updat
 
 ## Features
 - Automated searching: Autopuller scans your files and identifies directories that contain GitHub repositories.
-- Easy setup: Simply provide your GitHub access token in the configuration file to enable the program to interact with the GitHub API.
+- Pull multiple repositories by a click of a single button.
 - Convenient output: The program saves the directory paths of the identified repositories in a text file, making it easy to reference and manage them.
 
 ## Usage
@@ -26,10 +26,9 @@ Before running the program, you need to perform the following steps:
 
 ## Running the Program
 To run the program, use the following command:
-``python autopuller.py
-
-``
-
+``python autopuller.py``
+OR
+``run.bat``
 The program will search through your files and identify any GitHub repositories. It will then save their directories in a text file called `repo_list.txt`.
 
 ## Contributing
