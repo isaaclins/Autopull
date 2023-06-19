@@ -18,9 +18,11 @@ Autopuller is a Python program designed to automate the process of pulling updat
 ## Setup
 Before running the program, you need to perform the following steps:
 
-1. Install the required dependencies by running the following command:
-``pip install -r requirements.txt``
-2. Open the `config.json` file and provide your GitHub access token. This token is necessary for the program to interact with the GitHub API. Ensure that you have appropriate permissions to access the repositories you want to push.
+1. Download the repository by using:``git clone https://github.com/isaaclins/Autopull.git``
+2. Start the run.bat file by double clicking it.
+3. Done!
+
+
 
 ## Running the Program
 To run the program, use the following command:
